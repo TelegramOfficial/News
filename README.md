@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://github.com/TelegramBeta/Telegram/blob/main/Assets/telegram.png" width="100px" >](https://github.com/TelegramOfficial)
+[<img src="https://github.com/TelegramOfficial/News/blob/main/Assets/News.gif" width="100px" >](https://github.com/TelegramOfficial)
 
 <a href="https://github.com/TelegramOfficial/Telegram">Telegram</a> • <a href="https://github.com/TelegramOfficial/TelegramBeta">Telegram Beta</a> • <a href="https://github.com/TelegramOfficial/Apps">Apps</a>
 
